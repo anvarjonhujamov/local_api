@@ -1,160 +1,287 @@
 {
   "cards": [
     {
-      "id": 1,
-      "nameRu": "Анни Дюпрей",
-      "nameEn": "Anny Duperey",
-      "img": "https://static.insales-cdn.com/r/yTGyfzwN1cU/rs:fit:1000:0:1/plain/images/products/1/3274/372468938/Ani_dy-750x750.jpg@webp",
-      "images":[
-        {
-          "id":1,
-          "linkImg":"https://i.redd.it/k7jw60xcqkf61.jpg"
-        },
-        {
-          "id":2,
-          "linkImg":"https://flowerexplosion.com/cdn/shop/files/catalina-garden-rose-31047462977623.png?v=1703089089"
-        },
-        {
-          "id":3,
-          "linkImg":"https://www.fabulousflorals.com/wp-content/uploads/2018/05/Catalina-Garden-Roses-6.jpg"
-        },
-        {
-          "id":4,
-          "linkImg":"https://i.etsystatic.com/37696543/r/il/61a4e1/4346484041/il_fullxfull.4346484041_9orc.jpg"
-        }
-
-      ],
-      "type": "Shrub",
-      "year": 2006,
-      "category": "shrub",
-      "breeder": "Meilland, Франция",
-      "color": "yellow",
-      "height": "110",
-      "smell": "очень сильный",
-      "price": "None",
-      "yesorno": "yes",
-      "quantity":1200,
-      "about": "Цвет, аромат и романтическая форма цветков этого сорта великолепно сочетаются друг с другом. Роза позволяет создавать великолепные бордеры в старинном стиле. Насыщенный цитрусовый аромат"
-    },
-    {
-      "id": 2,
-      "nameRu": "Каталина",
-      "nameEn": "Catalina",
-      "img": "https://www.samisachaflowers.com/media/Catalina-rose.jpeg",
-      "type": "Hybrid Tea",
-      "year": 2010,
-      "category": "hybrid-tea",
-      "breeder": "Jackson & Perkins, USA",
-      "color": "Pink",
-      "height": "120",
-      "smell": "Moderate",
-      "price": "$29.99",
-      "yesorno": "yes",
-      "quantity":1200,
-      "about": "Beautiful pink hybrid tea rose with a moderate fragrance."
-    },
-    {
-      "id": 3,
-      "nameRu": "Рубикон",
-      "nameEn": "Rubicon",
-      "img": "https://www.interplantroses.nl/wp-content/uploads/2020/04/Dominica-lr-scaled.jpg",
-      "type": "Floribunda",
-      "year": 2012,
-      "category": "floribunda",
-      "breeder": "David Austin Roses, UK",
-      "color": "Red",
-      "height": "90",
-      "smell": "Strong",
-      "price": "$24.99",
-      "yesorno": "yes",
-      "quantity":1200,
-      "about": "Vibrant red floribunda rose with a strong fragrance."
-    },
-    {
-      "id": 4,
-      "nameRu": "Мэнсфилд Парк",
-      "nameEn": "Mansfield Park",
-      "img": "https://www.viproses.com/wp-content/uploads/2022/02/Hoofdfoto-8.jpg",
-      "type": "English Rose",
-      "year": 2015,
-      "category": "english-rose",
-      "breeder": "David Austin Roses, UK",
-      "color": "Apricot",
-      "height": "100",
-      "smell": "Delicate",
-      "price": "$27.99",
-      "yesorno": "yes",
-      "quantity":1200,
-      "about": "Delicate apricot English rose with a subtle fragrance."
-    },
-    {
-      "id": 5,
-      "nameRu": "Роял Парк",
-      "nameEn": "Royal Park",
-      "img": "https://i.etsystatic.com/37696543/r/il/8d2764/4779942056/il_fullxfull.4779942056_52mt.jpg",
-      "type": "Grandiflora",
-      "year": 2008,
-      "category": "grandiflora",
-      "breeder": "Weeks Roses, USA",
-      "color": "Purple",
-      "height": "130",
-      "smell": "Moderate",
-      "price": "$32.99",
-      "yesorno": "yes",
-      "quantity":1200,
-      "about": "Grandiflora rose with majestic purple blooms and a moderate fragrance."
-    },
-    {
-      "id": 6,
-      "nameRu": "Блэк Баккара",
-      "nameEn": "Black Baccara",
-      "img": "https://i.pinimg.com/originals/91/7f/65/917f656301c341f943b0711d7c005829.jpg",
-      "type": "Hybrid Tea",
-      "year": 2000,
-      "category": "hybrid-tea",
-      "breeder": "Meilland, Франция",
-      "color": "Deep Red",
-      "height": "110",
-      "smell": "Intense",
-      "price": "$34.99",
-      "yesorno": "yes",
-      "quantity":1200,
-      "about": "Intensely colored deep red hybrid tea rose with a strong fragrance."
-    },
-    {
-      "id": 7,
-      "nameRu": "Дарлингтон",
-      "nameEn": "Darlington",
-      "img": "https://rosebushes.gracerosefarm.com/cdn/shop/products/IMG_2850_800x.jpg?v=1685660553",
-      "type": "Climbing",
-      "year": 2013,
-      "category": "climbing",
-      "breeder": "Kordes, Германия",
-      "color": "Cream",
-      "height": "250",
-      "smell": "Soft",
-      "price": "$39.99",
-      "yesorno": "yes",
-      "quantity":1200,
-      "about": "Climbing rose with soft cream-colored blooms and a gentle fragrance."
-    },
-    {
-      "id": 8,
-      "nameRu": "Джульетта",
-      "nameEn": "Juliette",
-      "img": "https://sgrosecorner.com/cdn/shop/files/image_05cce513-216a-48e9-ba32-8840c6d936a7_1445x.jpg?v=1685685378",
-      "type": "English Rose",
-      "year": 2011,
-      "category": "english-rose",
-      "breeder": "David Austin Roses, UK",
-      "color": "Peach",
-      "height": "120",
-      "smell": "Strong",
-      "price": "$31.99",
-      "yesorno": "yes",
-      "quantity":1200,
-      "about": "Peach-colored English rose with strong fragrance, reminiscent of Juliet's balcony."
-    }
+    "id": 1,
+    "nameRu": "Анни Дюпрей",
+    "nameEn": "Anny Duperey",
+    "nameUz": "Anny Duperey",
+    "img": "https://thursd.com/storage/media/49046/Rose-Rhodos-from-the-Big-Five-of-De-Ruiter.jpg",
+    "images": [
+      {
+        "idNum": 1,
+        "linkImg": "https://thursd.com/storage/media/49046/Rose-Rhodos-from-the-Big-Five-of-De-Ruiter.jpg"
+      },
+      {
+        "idNum": 2,
+        "linkImg": "https://flowerexplosion.com/cdn/shop/files/catalina-garden-rose-31047462977623.png?v=1703089089"
+      },
+      {
+        "idNum": 3,
+        "linkImg": "https://www.fabulousflorals.com/wp-content/uploads/2018/05/Catalina-Garden-Roses-6.jpg"
+      },
+      {
+        "idNum": 4,
+        "linkImg": "https://i.etsystatic.com/37696543/r/il/61a4e1/4346484041/il_fullxfull.4346484041_9orc.jpg"
+      }
+    ],
+    "type": "Shrub",
+    "year": 2006,
+    "breeder": "Meilland, Франция",
+    "latest": "new",
+    "color": "yellow",
+    "petal": 70,
+    "height": "110",
+    "smell": "очень сильный",
+    "price": "1$",
+    "yesorno": "yes",
+    "quantity": 1200,
+    "about": "Цвет, аромат и романтическая форма цветков этого сорта великолепно сочетаются друг с другом. Роза позволяет создавать великолепные бордеры в старинном стиле. Насыщенный цитрусовый аромат"
+  },
+  {
+    "id": 2,
+    "nameRu": "Каталина",
+    "nameEn": "Catalina",
+    "img": "https://www.samisachaflowers.com/media/Catalina-rose.jpeg",
+    "images": [
+      {
+        "idNum": 1,
+        "linkImg": "https://thursd.com/storage/media/49046/Rose-Rhodos-from-the-Big-Five-of-De-Ruiter.jpg"
+      },
+      {
+        "idNum": 2,
+        "linkImg": "https://flowerexplosion.com/cdn/shop/files/catalina-garden-rose-31047462977623.png?v=1703089089"
+      },
+      {
+        "idNum": 3,
+        "linkImg": "https://www.fabulousflorals.com/wp-content/uploads/2018/05/Catalina-Garden-Roses-6.jpg"
+      },
+      {
+        "idNum": 4,
+        "linkImg": "https://i.etsystatic.com/37696543/r/il/61a4e1/4346484041/il_fullxfull.4346484041_9orc.jpg"
+      }
+    ],
+    "type": "Hybrid Tea",
+    "year": 2010,
+    "category": "hybrid-tea",
+    "breeder": "Jackson & Perkins, USA",
+    "color": "Pink",
+    "height": "120",
+    "smell": "Moderate",
+    "price": "$29.99",
+    "yesorno": "yes",
+    "quantity": 1200,
+    "about": "Beautiful pink hybrid tea rose with a moderate fragrance."
+  },
+  {
+    "id": 3,
+    "nameRu": "Рубикон",
+    "nameEn": "Rubicon",
+    "img": "https://www.interplantroses.nl/wp-content/uploads/2020/04/Dominica-lr-scaled.jpg",
+    "images": [
+      {
+        "idNum": 1,
+        "linkImg": "https://thursd.com/storage/media/49046/Rose-Rhodos-from-the-Big-Five-of-De-Ruiter.jpg"
+      },
+      {
+        "idNum": 2,
+        "linkImg": "https://flowerexplosion.com/cdn/shop/files/catalina-garden-rose-31047462977623.png?v=1703089089"
+      },
+      {
+        "idNum": 3,
+        "linkImg": "https://www.fabulousflorals.com/wp-content/uploads/2018/05/Catalina-Garden-Roses-6.jpg"
+      },
+      {
+        "idNum": 4,
+        "linkImg": "https://i.etsystatic.com/37696543/r/il/61a4e1/4346484041/il_fullxfull.4346484041_9orc.jpg"
+      }
+    ],
+    "type": "Floribunda",
+    "year": 2012,
+    "category": "floribunda",
+    "breeder": "David Austin Roses, UK",
+    "color": "Red",
+    "height": "90",
+    "smell": "Strong",
+    "price": "$24.99",
+    "yesorno": "yes",
+    "quantity": 1200,
+    "about": "Vibrant red floribunda rose with a strong fragrance."
+  },
+  {
+    "id": 4,
+    "nameRu": "Мэнсфилд Парк",
+    "nameEn": "Mansfield Park",
+    "img": "https://www.viproses.com/wp-content/uploads/2022/02/Hoofdfoto-8.jpg",
+    "images": [
+      {
+        "idNum": 1,
+        "linkImg": "https://thursd.com/storage/media/49046/Rose-Rhodos-from-the-Big-Five-of-De-Ruiter.jpg"
+      },
+      {
+        "idNum": 2,
+        "linkImg": "https://flowerexplosion.com/cdn/shop/files/catalina-garden-rose-31047462977623.png?v=1703089089"
+      },
+      {
+        "idNum": 3,
+        "linkImg": "https://www.fabulousflorals.com/wp-content/uploads/2018/05/Catalina-Garden-Roses-6.jpg"
+      },
+      {
+        "idNum": 4,
+        "linkImg": "https://i.etsystatic.com/37696543/r/il/61a4e1/4346484041/il_fullxfull.4346484041_9orc.jpg"
+      }
+    ],
+    "type": "English Rose",
+    "year": 2015,
+    "category": "english-rose",
+    "breeder": "David Austin Roses, UK",
+    "color": "Apricot",
+    "height": "100",
+    "smell": "Delicate",
+    "price": "$27.99",
+    "yesorno": "yes",
+    "quantity": 1200,
+    "about": "Delicate apricot English rose with a subtle fragrance."
+  },
+  {
+    "id": 5,
+    "nameRu": "Роял Парк",
+    "nameEn": "Royal Park",
+    "img": "https://i.etsystatic.com/37696543/r/il/8d2764/4779942056/il_fullxfull.4779942056_52mt.jpg",
+    "images": [
+      {
+        "idNum": 1,
+        "linkImg": "https://thursd.com/storage/media/49046/Rose-Rhodos-from-the-Big-Five-of-De-Ruiter.jpg"
+      },
+      {
+        "idNum": 2,
+        "linkImg": "https://flowerexplosion.com/cdn/shop/files/catalina-garden-rose-31047462977623.png?v=1703089089"
+      },
+      {
+        "idNum": 3,
+        "linkImg": "https://www.fabulousflorals.com/wp-content/uploads/2018/05/Catalina-Garden-Roses-6.jpg"
+      },
+      {
+        "idNum": 4,
+        "linkImg": "https://i.etsystatic.com/37696543/r/il/61a4e1/4346484041/il_fullxfull.4346484041_9orc.jpg"
+      }
+    ],
+    "type": "Grandiflora",
+    "year": 2008,
+    "category": "grandiflora",
+    "breeder": "Weeks Roses, USA",
+    "color": "Purple",
+    "height": "130",
+    "smell": "Moderate",
+    "price": "$32.99",
+    "yesorno": "yes",
+    "quantity": 1200,
+    "about": "Grandiflora rose with majestic purple blooms and a moderate fragrance."
+  },
+  {
+    "id": 6,
+    "nameRu": "Блэк Баккара",
+    "nameEn": "Black Baccara",
+    "img": "https://i.pinimg.com/originals/91/7f/65/917f656301c341f943b0711d7c005829.jpg",
+    "images": [
+      {
+        "idNum": 1,
+        "linkImg": "https://thursd.com/storage/media/49046/Rose-Rhodos-from-the-Big-Five-of-De-Ruiter.jpg"
+      },
+      {
+        "idNum": 2,
+        "linkImg": "https://flowerexplosion.com/cdn/shop/files/catalina-garden-rose-31047462977623.png?v=1703089089"
+      },
+      {
+        "idNum": 3,
+        "linkImg": "https://www.fabulousflorals.com/wp-content/uploads/2018/05/Catalina-Garden-Roses-6.jpg"
+      },
+      {
+        "idNum": 4,
+        "linkImg": "https://i.etsystatic.com/37696543/r/il/61a4e1/4346484041/il_fullxfull.4346484041_9orc.jpg"
+      }
+    ],
+    "type": "Hybrid Tea",
+    "year": 2000,
+    "category": "hybrid-tea",
+    "breeder": "Meilland, Франция",
+    "color": "Deep Red",
+    "height": "110",
+    "smell": "Intense",
+    "price": "$34.99",
+    "yesorno": "yes",
+    "quantity": 1200,
+    "about": "Intensely colored deep red hybrid tea rose with a strong fragrance."
+  },
+  {
+    "id": 7,
+    "nameRu": "Дарлингтон",
+    "nameEn": "Darlington",
+    "img": "https://rosebushes.gracerosefarm.com/cdn/shop/products/IMG_2850_800x.jpg?v=1685660553",
+    "images": [
+      {
+        "idNum": 1,
+        "linkImg": "https://thursd.com/storage/media/49046/Rose-Rhodos-from-the-Big-Five-of-De-Ruiter.jpg"
+      },
+      {
+        "idNum": 2,
+        "linkImg": "https://flowerexplosion.com/cdn/shop/files/catalina-garden-rose-31047462977623.png?v=1703089089"
+      },
+      {
+        "idNum": 3,
+        "linkImg": "https://www.fabulousflorals.com/wp-content/uploads/2018/05/Catalina-Garden-Roses-6.jpg"
+      },
+      {
+        "idNum": 4,
+        "linkImg": "https://i.etsystatic.com/37696543/r/il/61a4e1/4346484041/il_fullxfull.4346484041_9orc.jpg"
+      }
+    ],
+    "type": "Climbing",
+    "year": 2013,
+    "category": "climbing",
+    "breeder": "Kordes, Германия",
+    "color": "Cream",
+    "height": "250",
+    "smell": "Soft",
+    "price": "$39.99",
+    "yesorno": "yes",
+    "quantity": 1200,
+    "about": "Climbing rose with soft cream-colored blooms and a gentle fragrance."
+  },
+  {
+    "id": 8,
+    "nameRu": "Джульетта",
+    "nameEn": "Juliette",
+    "img": "https://sgrosecorner.com/cdn/shop/files/image_05cce513-216a-48e9-ba32-8840c6d936a7_1445x.jpg?v=1685685378",
+    "images": [
+      {
+        "idNum": 1,
+        "linkImg": "https://thursd.com/storage/media/49046/Rose-Rhodos-from-the-Big-Five-of-De-Ruiter.jpg"
+      },
+      {
+        "idNum": 2,
+        "linkImg": "https://flowerexplosion.com/cdn/shop/files/catalina-garden-rose-31047462977623.png?v=1703089089"
+      },
+      {
+        "idNum": 3,
+        "linkImg": "https://www.fabulousflorals.com/wp-content/uploads/2018/05/Catalina-Garden-Roses-6.jpg"
+      },
+      {
+        "idNum": 4,
+        "linkImg": "https://i.etsystatic.com/37696543/r/il/61a4e1/4346484041/il_fullxfull.4346484041_9orc.jpg"
+      }
+    ],
+    "type": "English Rose",
+    "year": 2011,
+    "category": "english-rose",
+    "breeder": "David Austin Roses, UK",
+    "color": "Peach",
+    "height": "120",
+    "smell": "Strong",
+    "price": "$31.99",
+    "yesorno": "yes",
+    "quantity": 1200,
+    "about": "Peach-colored English rose with strong fragrance, reminiscent of Juliet's balcony."
+  },
 
   ],
 
